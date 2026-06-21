@@ -31,11 +31,11 @@
 ## 🛠️ Tech & Requirements
 
 * **Dependencies:** **FFmpeg** must be installed on your system to handle high-quality audio conversion and processing. Ffmpeg.exe have to be in the same folder than the .exe
-[**WINDOWS FFMPEG**](https://www.gyan.dev/ffmpeg/builds/packages/ffmpeg-2026-06-10-git-b29bdd3715-essentials_build.7z) ||||
-[**LINUX (unbuntu) FFMPEG**](https://launchpad.net/ubuntu/+source/ffmpeg)
+* [**WINDOWS FFMPEG**](https://www.gyan.dev/ffmpeg/builds/packages/ffmpeg-2026-06-10-git-b29bdd3715-essentials_build.7z) ||||
+* [**LINUX (unbuntu) FFMPEG**](https://launchpad.net/ubuntu/+source/ffmpeg)
 * **Network:** Wi-Fi/Data required for initial browsing, high-quality downloading, and fetching lyrics.
 * **Storage:** Local device storage required for offline tracks and cached thumbnails.
-
+* You can also download the installer by clicking [HERE](https://download1351.mediafire.com/6gkpbkab6q9gMcVQiD9YVOVxamGdGmF8_rY9MNXvFh-qBC2rZyZh0L1--tRZxoTXON8jB-n9BTSqGSgF6LyVUNHuUQeVLv1G7VhotucbJsy0PvhV9bOHeSVACFZyd1A9NHHxzXwy5aevJAY4tFPAV9LHX2Vegj0J1gsoViVg5IKh6A/ramcopjjokfthgz/Melodia+-+Installer.exe)
 ---
 
 *Melodia — Music without boundaries, strictly on your terms.*
