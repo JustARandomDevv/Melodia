@@ -35,7 +35,7 @@
 * [**LINUX (unbuntu) FFMPEG**](https://launchpad.net/ubuntu/+source/ffmpeg)
 * **Network:** Wi-Fi/Data required for initial browsing, high-quality downloading, and fetching lyrics.
 * **Storage:** Local device storage required for offline tracks and cached thumbnails.
-* You can also download the installer by clicking [HERE](https://download1351.mediafire.com/6gkpbkab6q9gMcVQiD9YVOVxamGdGmF8_rY9MNXvFh-qBC2rZyZh0L1--tRZxoTXON8jB-n9BTSqGSgF6LyVUNHuUQeVLv1G7VhotucbJsy0PvhV9bOHeSVACFZyd1A9NHHxzXwy5aevJAY4tFPAV9LHX2Vegj0J1gsoViVg5IKh6A/ramcopjjokfthgz/Melodia+-+Installer.exe)
+* You can also download the installer by clicking [**HERE**](https://download1351.mediafire.com/6gkpbkab6q9gMcVQiD9YVOVxamGdGmF8_rY9MNXvFh-qBC2rZyZh0L1--tRZxoTXON8jB-n9BTSqGSgF6LyVUNHuUQeVLv1G7VhotucbJsy0PvhV9bOHeSVACFZyd1A9NHHxzXwy5aevJAY4tFPAV9LHX2Vegj0J1gsoViVg5IKh6A/ramcopjjokfthgz/Melodia+-+Installer.exe)
 ---
 
 *Melodia — Music without boundaries, strictly on your terms.*
