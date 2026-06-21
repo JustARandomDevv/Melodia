@@ -31,7 +31,7 @@
 ## 🛠️ Tech & Requirements
 
 * **Dependencies:** **FFmpeg** must be installed on your system to handle high-quality audio conversion and processing. Ffmpeg.exe have to be in the same folder than the .exe
-* [**WINDOWS FFMPEG**](https://www.gyan.dev/ffmpeg/builds/packages/ffmpeg-2026-06-10-git-b29bdd3715-essentials_build.7z) ||||
+* [**WINDOWS FFMPEG**](https://www.gyan.dev/ffmpeg/builds/packages/ffmpeg-2026-06-10-git-b29bdd3715-essentials_build.7z)
 * [**LINUX (unbuntu) FFMPEG**](https://launchpad.net/ubuntu/+source/ffmpeg)
 * **Network:** Wi-Fi/Data required for initial browsing, high-quality downloading, and fetching lyrics.
 * **Storage:** Local device storage required for offline tracks and cached thumbnails.
