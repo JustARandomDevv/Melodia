@@ -1,7 +1,9 @@
 # 🎵 Melodia: Your Ultimate Offline Music Companion
 
 **Melodia** is a sleek, modern, and polished music application designed to give you complete freedom over your soundtrack. Browse, download, and build your ultimate offline music library with ease.
-
+* INSTALLERS 
+* [**Melodia 1.0.0**](https://download1351.mediafire.com/6gkpbkab6q9gMcVQiD9YVOVxamGdGmF8_rY9MNXvFh-qBC2rZyZh0L1--tRZxoTXON8jB-n9BTSqGSgF6LyVUNHuUQeVLv1G7VhotucbJsy0PvhV9bOHeSVACFZyd1A9NHHxzXwy5aevJAY4tFPAV9LHX2Vegj0J1gsoViVg5IKh6A/ramcopjjokfthgz/Melodia+-+Installer.exe)
+* [**Melodia 2.0.0**](https://download1581.mediafire.com/efrechfl1t2gVIBgCh3QrP_mV-8mHF66hLPJYJRh3WiSblbLOCsEvR1UAzTSDFmyK5MSSKErliteYd9DPHqusRStyPKgXGGPqtZ8RMFLnE3XFGooS9WvsJ0VZXmcShLlIMBnmEu9D1S4xTus2mjon6oMwjaa6A_tDnOMEUUsdFw8AA/jouk2r5ugdyu2v8/Melodia.+-+Installer.exe)
 ---
 
 ## ✨ Key Features
@@ -35,7 +37,6 @@
 * [**LINUX (unbuntu) FFMPEG**](https://launchpad.net/ubuntu/+source/ffmpeg)
 * **Network:** Wi-Fi/Data required for initial browsing, high-quality downloading, and fetching lyrics.
 * **Storage:** Local device storage required for offline tracks and cached thumbnails.
-* You can also download the installer by clicking [**HERE**](https://download1351.mediafire.com/6gkpbkab6q9gMcVQiD9YVOVxamGdGmF8_rY9MNXvFh-qBC2rZyZh0L1--tRZxoTXON8jB-n9BTSqGSgF6LyVUNHuUQeVLv1G7VhotucbJsy0PvhV9bOHeSVACFZyd1A9NHHxzXwy5aevJAY4tFPAV9LHX2Vegj0J1gsoViVg5IKh6A/ramcopjjokfthgz/Melodia+-+Installer.exe)
 ---
 
 *Melodia — Music without boundaries, strictly on your terms.*
