@@ -4,6 +4,7 @@
 * INSTALLERS 
 * [**Melodia 1.0.0**](https://download1351.mediafire.com/6gkpbkab6q9gMcVQiD9YVOVxamGdGmF8_rY9MNXvFh-qBC2rZyZh0L1--tRZxoTXON8jB-n9BTSqGSgF6LyVUNHuUQeVLv1G7VhotucbJsy0PvhV9bOHeSVACFZyd1A9NHHxzXwy5aevJAY4tFPAV9LHX2Vegj0J1gsoViVg5IKh6A/ramcopjjokfthgz/Melodia+-+Installer.exe)
 * [**Melodia 2.0.0**](https://download1581.mediafire.com/efrechfl1t2gVIBgCh3QrP_mV-8mHF66hLPJYJRh3WiSblbLOCsEvR1UAzTSDFmyK5MSSKErliteYd9DPHqusRStyPKgXGGPqtZ8RMFLnE3XFGooS9WvsJ0VZXmcShLlIMBnmEu9D1S4xTus2mjon6oMwjaa6A_tDnOMEUUsdFw8AA/jouk2r5ugdyu2v8/Melodia.+-+Installer.exe)
+* [**Melodia 3.0.0**](https://download1582.mediafire.com/8019yxygxzcgKb24W5GFRYBL_7PdXE_o5jvZ4UbCqB06qPNkgkdmDcIXwqfIki0NS6QNB7TnnfWvyHeaVj2futVQimQ0FM_um7-TGzG-avwgByhHKeYsLcgVQDL9nyCtDBnuQxg88K6steex6icug1VLFcoXmU_9uy2BSbeIiM48Ig/0b0gjzim3kennhs/Melodia+3.0.+-+Installer.exe)
 ---
 
 ## ✨ Key Features
